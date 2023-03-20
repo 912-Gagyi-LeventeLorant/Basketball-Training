@@ -1,0 +1,26 @@
+C:\Users\gagyi\Desktop\Nightmare\Nightmare\obj\x86\Debug\Basketball.csproj.AssemblyReference.cache
+C:\Users\gagyi\Desktop\Nightmare\Nightmare\obj\x86\Debug\Basketball.csproj.SuggestedBindingRedirects.cache
+C:\Users\gagyi\Desktop\Nightmare\Nightmare\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\gagyi\Desktop\Nightmare\Nightmare\obj\x86\Debug\WindowsFormsApplication1.Help.resources
+C:\Users\gagyi\Desktop\Nightmare\Nightmare\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\gagyi\Desktop\Nightmare\Nightmare\obj\x86\Debug\WindowsFormsApplication1.Titlecard.resources
+C:\Users\gagyi\Desktop\Nightmare\Nightmare\obj\x86\Debug\Basketball.csproj.GenerateResource.cache
+C:\Users\gagyi\Desktop\Nightmare\Nightmare\obj\x86\Debug\Basketball.csproj.CoreCompileInputs.cache
+C:\Users\gagyi\Desktop\Nightmare\Nightmare\obj\x86\Debug\Nightmare.exe
+C:\Users\gagyi\Desktop\Nightmare\Nightmare\obj\x86\Debug\Nightmare.pdb
+C:\Users\gagyi\Desktop\Nightmare\Nightmare\bin\Debug\Nightmare.exe.config
+C:\Users\gagyi\Desktop\Nightmare\Nightmare\bin\Debug\Nightmare.exe
+C:\Users\gagyi\Desktop\Nightmare\Nightmare\bin\Debug\Nightmare.pdb
+C:\Users\gagyi\Desktop\Basketball Training\Nightmare\bin\Debug\Basketball training.exe.config
+C:\Users\gagyi\Desktop\Basketball Training\Nightmare\bin\Debug\Basketball training.exe
+C:\Users\gagyi\Desktop\Basketball Training\Nightmare\bin\Debug\Basketball training.pdb
+C:\Users\gagyi\Desktop\Basketball Training\Nightmare\obj\x86\Debug\Basketball.csproj.AssemblyReference.cache
+C:\Users\gagyi\Desktop\Basketball Training\Nightmare\obj\x86\Debug\Basketball.csproj.SuggestedBindingRedirects.cache
+C:\Users\gagyi\Desktop\Basketball Training\Nightmare\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\gagyi\Desktop\Basketball Training\Nightmare\obj\x86\Debug\WindowsFormsApplication1.Help.resources
+C:\Users\gagyi\Desktop\Basketball Training\Nightmare\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\gagyi\Desktop\Basketball Training\Nightmare\obj\x86\Debug\WindowsFormsApplication1.Titlecard.resources
+C:\Users\gagyi\Desktop\Basketball Training\Nightmare\obj\x86\Debug\Basketball.csproj.GenerateResource.cache
+C:\Users\gagyi\Desktop\Basketball Training\Nightmare\obj\x86\Debug\Basketball.csproj.CoreCompileInputs.cache
+C:\Users\gagyi\Desktop\Basketball Training\Nightmare\obj\x86\Debug\Basketball training.exe
+C:\Users\gagyi\Desktop\Basketball Training\Nightmare\obj\x86\Debug\Basketball training.pdb

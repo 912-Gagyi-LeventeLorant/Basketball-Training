@@ -1,0 +1,11 @@
+C:\C#\Projects\Nightmare\Nightmare\bin\Debug\Nightmare.exe
+C:\C#\Projects\Nightmare\Nightmare\bin\Debug\Nightmare.pdb
+C:\C#\Projects\Nightmare\Nightmare\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\C#\Projects\Nightmare\Nightmare\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\C#\Projects\Nightmare\Nightmare\obj\x86\Debug\Nightmare.csproj.GenerateResource.Cache
+C:\C#\Projects\Nightmare\Nightmare\obj\x86\Debug\Nightmare.exe
+C:\C#\Projects\Nightmare\Nightmare\obj\x86\Debug\Nightmare.pdb
+C:\C#\Projects\Nightmare\Nightmare\obj\x86\Debug\Nightmare.csprojAssemblyReference.cache
+C:\C#\Projects\Nightmare\Nightmare\obj\x86\Debug\Nightmare.csproj.CoreCompileInputs.cache
+C:\C#\Projects\Nightmare\Nightmare\obj\x86\Debug\WindowsFormsApplication1.Titlecard.resources
+C:\C#\Projects\Nightmare\Nightmare\obj\x86\Debug\WindowsFormsApplication1.Help.resources
